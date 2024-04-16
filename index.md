@@ -13,6 +13,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ## Header 2
 
+- [ ] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
+
 ### Header 3
 
 #### Header 4
