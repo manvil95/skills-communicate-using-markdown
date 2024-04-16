@@ -1,3 +1,5 @@
+![Image of filmocats](https://octodex.github.com/images/filmtocats.png)
+
 # Header 1
 
 ## Header 2
